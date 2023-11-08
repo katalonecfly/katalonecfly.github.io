@@ -1,0 +1,219 @@
+<level>
+    <id> 25 </id>
+    <width> 8 </width>
+    <height> 8 </height>
+
+    <walls>
+        <wall>
+            <from>
+                <row> 0 </row>
+                <column> 1 </column>
+            </from>
+            <to>
+                <row> 0 </row>
+                <column> 7 </column>
+            </to>
+        </wall>
+        <wall>
+            <from>
+                <row> 1 </row>
+                <column> 0 </column>
+            </from>
+            <to>
+                <row> 1 </row>
+                <column> 0 </column>
+            </to>
+        </wall>
+        <wall>
+            <from>
+                <row> 1 </row>
+                <column> 2 </column>
+            </from>
+            <to>
+                <row> 1 </row>
+                <column> 7 </column>
+            </to>
+        </wall>
+        <wall>
+            <from>
+                <row> 2 </row>
+                <column> 0 </column>
+            </from>
+            <to>
+                <row> 2 </row>
+                <column> 1 </column>
+            </to>
+        </wall>
+        <wall>
+            <from>
+                <row> 2 </row>
+                <column> 3 </column>
+            </from>
+            <to>
+                <row> 2 </row>
+                <column> 3 </column>
+            </to>
+        </wall>
+        <wall>
+            <from>
+                <row> 2 </row>
+                <column> 5 </column>
+            </from>
+            <to>
+                <row> 2 </row>
+                <column> 7 </column>
+            </to>
+        </wall>
+        <wall>
+            <from>
+                <row> 3 </row>
+                <column> 0 </column>
+            </from>
+            <to>
+                <row> 3 </row>
+                <column> 2 </column>
+            </to>
+        </wall>
+        <wall>
+            <from>
+                <row> 3 </row>
+                <column> 4 </column>
+            </from>
+            <to>
+                <row> 3 </row>
+                <column> 7 </column>
+            </to>
+        </wall>
+        <wall>
+            <from>
+                <row> 4 </row>
+                <column> 0 </column>
+            </from>
+            <to>
+                <row> 4 </row>
+                <column> 1 </column>
+            </to>
+        </wall>
+        <wall>
+            <from>
+                <row> 4 </row>
+                <column> 3 </column>
+            </from>
+            <to>
+                <row> 4 </row>
+                <column> 3 </column>
+            </to>
+        </wall>
+        <wall>
+            <from>
+                <row> 4 </row>
+                <column> 5 </column>
+            </from>
+            <to>
+                <row> 4 </row>
+                <column> 7 </column>
+            </to>
+        </wall>
+        <wall>
+            <from>
+                <row> 5 </row>
+                <column> 0 </column>
+            </from>
+            <to>
+                <row> 5 </row>
+                <column> 0 </column>
+            </to>
+        </wall>
+        <wall>
+            <from>
+                <row> 5 </row>
+                <column> 2 </column>
+            </from>
+            <to>
+                <row> 5 </row>
+                <column> 4 </column>
+            </to>
+        </wall>
+        <wall>
+            <from>
+                <row> 5 </row>
+                <column> 6 </column>
+            </from>
+            <to>
+                <row> 5 </row>
+                <column> 7 </column>
+            </to>
+        </wall>
+
+        <wall>
+            <from>
+                <row> 6 </row>
+                <column> 0 </column>
+            </from>
+            <to>
+                <row> 6 </row>
+                <column> 5 </column>
+            </to>
+        </wall>
+        <wall>
+            <from>
+                <row> 6 </row>
+                <column> 7 </column>
+            </from>
+            <to>
+                <row> 6 </row>
+                <column> 7 </column>
+            </to>
+        </wall>
+        <wall>
+            <from>
+                <row> 7 </row>
+                <column> 0 </column>
+            </from>
+            <to>
+                <row> 7 </row>
+                <column> 6 </column>
+            </to>
+        </wall>
+    </walls>
+
+    <heroes>
+        <hero>
+            <id> 0 </id>
+            <row> 3 </row>
+            <column> 3 </column>
+            <moves> 2400 </moves>
+        </hero>
+    </heroes>
+
+    <start>
+        <row> 3 </row>
+        <column> 3 </column>
+    </start>
+
+    <destinations>
+        <destination>
+            <row> 0 </row>
+            <column> 0 </column>
+        </destination>
+        <destination>
+            <row> 2 </row>
+            <column> 4 </column>
+        </destination>
+        <destination>
+            <row> 5 </row>
+            <column> 1 </column>
+        </destination>
+        <destination>
+            <row> 7 </row>
+            <column> 7 </column>
+        </destination>
+    </destinations>
+
+    <solution>
+        <score> 144 </score>
+        <moves>
+            3 3 2 4, 2 4 3 3, 3 3 4 2, 4 2 5 1, 5 1 4 2, 4 2 3 3, 3 3 2 2, 2 2 1 1, 1 1 0 0, 0 0 1 1, 1 1 2 2, 2 2 3 3, 3 3 4 4, 4 4 5 5, 5 5 6 6, 6 6 7 7
+        </moves>
+    </solution>
+</level>

@@ -1,0 +1,52 @@
+<level>
+    <id> 8 </id>
+    <width> 5 </width>
+    <height> 4 </height>
+
+    <walls>
+        <wall>
+            <from>
+                <row> 0 </row>
+                <column> 2 </column>
+            </from>
+            <to>
+                <row> 2 </row>
+                <column> 2 </column>
+            </to>
+        </wall>
+    </walls>
+
+    <heroes>
+        <hero>
+            <id> 0 </id>
+            <row> 0 </row>
+            <column> 4 </column>
+            <moves> 200 </moves>
+        </hero>
+        <hero>
+            <id> 1 </id>
+            <row> 3 </row>
+            <column> 2 </column>
+            <moves> 750 </moves>
+        </hero>
+    </heroes>
+
+    <start>
+        <row> 0 </row>
+        <column> 4 </column>
+    </start>
+
+    <destinations>
+        <destination>
+            <row> 0 </row>
+            <column> 0 </column>
+        </destination>
+    </destinations>
+
+    <solution>
+        <score> 27 </score>
+        <moves>
+            0 4 1 4, 1 4 2 4, 3 2 3 3, 3 3 2 4, 3 3 3 2, 3 2 2 1, 2 1 1 1, 1 1 0 0
+        </moves>
+    </solution>
+</level>

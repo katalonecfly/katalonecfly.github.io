@@ -1,0 +1,56 @@
+<level>
+    <id> 23 </id>
+    <width> 7 </width>
+    <height> 3 </height>
+
+    <walls>
+        <wall>
+            <from>
+                <row> 1 </row>
+                <column> 1 </column>
+            </from>
+            <to>
+                <row> 1 </row>
+                <column> 5 </column>
+            </to>
+        </wall>
+    </walls>
+
+    <heroes>
+        <hero>
+            <id> 0 </id>
+            <row> 0 </row>
+            <column> 3 </column>
+            <moves> 500 </moves>
+        </hero>
+        <hero>
+            <id> 1 </id>
+            <row> 2 </row>
+            <column> 3 </column>
+            <moves> 700 </moves>
+        </hero>
+    </heroes>
+
+    <start>
+        <row> 0 </row>
+        <column> 3 </column>
+    </start>
+
+    <destinations>
+        <destination>
+            <row> 1 </row>
+            <column> 0 </column>
+        </destination>
+        <destination>
+            <row> 1 </row>
+            <column> 6 </column>
+        </destination>
+    </destinations>
+
+    <solution>
+        <score> 77 </score>
+        <moves>
+            0 3 0 2, 0 2 0 1, 0 1 1 0, 1 0 2 1, 2 3 2 2, 2 2 2 1, 2 2 2 3, 2 3 2 4, 2 4 2 5, 2 5 1 6
+        </moves>
+    </solution>
+</level>

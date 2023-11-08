@@ -1,0 +1,84 @@
+<level>
+    <id> 14 </id>
+    <width> 14 </width>
+    <height> 4 </height>
+
+    <walls>
+        <wall>
+            <from>
+                <row> 0 </row>
+                <column> 1 </column>
+            </from>
+            <to>
+                <row> 0 </row>
+                <column> 11 </column>
+            </to>
+        </wall>
+        <wall>
+            <from>
+                <row> 1 </row>
+                <column> 1 </column>
+            </from>
+            <to>
+                <row> 1 </row>
+                <column> 11 </column>
+            </to>
+        </wall>
+        <wall>
+            <from>
+                <row> 3 </row>
+                <column> 1 </column>
+            </from>
+            <to>
+                <row> 3 </row>
+                <column> 11 </column>
+            </to>
+        </wall>
+    </walls>
+
+    <heroes>
+        <hero>
+            <id> 0 </id>
+            <row> 2 </row>
+            <column> 6 </column>
+            <moves> 650 </moves>
+        </hero>
+        <hero>
+            <id> 1 </id>
+            <row> 1 </row>
+            <column> 12 </column>
+            <moves> 250 </moves>
+        </hero>
+        <hero>
+            <id> 2 </id>
+            <row> 3 </row>
+            <column> 12 </column>
+            <moves> 1400 </moves>
+        </hero>
+        <hero>
+            <id> 3 </id>
+            <row> 2 </row>
+            <column> 1 </column>
+            <moves> 200 </moves>
+        </hero>
+    </heroes>
+
+    <start>
+        <row> 2 </row>
+        <column> 6 </column>
+    </start>
+
+    <destinations>
+        <destination>
+            <row> 0 </row>
+            <column> 0 </column>
+        </destination>
+    </destinations>
+
+    <solution>
+        <score> 177 </score>
+        <moves>
+            2 6 2 7, 2 7 2 8, 2 8 2 9, 2 9 2 10, 2 10 2 11, 2 11 2 12, 1 12 2 12, 3 12 2 11, 1 12 2 11, 2 11 2 10, 2 10 2 9, 2 9 2 8, 2 8 2 7, 2 7 2 6, 2 6 2 5, 2 5 2 4, 2 4 2 3, 2 3 2 2, 2 1 2 0, 2 2 2 1, 2 1 1 0, 1 0 0 0
+        </moves>
+    </solution>
+</level>

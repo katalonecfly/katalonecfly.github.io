@@ -1,0 +1,36 @@
+<level>
+    <id> 2 </id>
+    <width> 4 </width>
+    <height> 4 </height>
+
+    <walls>
+    </walls>
+
+    <heroes>
+        <hero>
+            <id> 0 </id>
+            <row> 3 </row>
+            <column> 0 </column>
+            <moves> 423 </moves>
+        </hero>
+    </heroes>
+
+    <start>
+        <row> 3 </row>
+        <column> 0 </column>
+    </start>
+
+    <destinations>
+        <destination>
+            <row> 0 </row>
+            <column> 3 </column>
+        </destination>
+    </destinations>
+
+    <solution>
+        <score> 0 </score>
+        <moves>
+            3 0 2 1, 2 1 1 2, 1 2 0 3
+        </moves>
+    </solution>
+</level>

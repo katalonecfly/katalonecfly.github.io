@@ -1,0 +1,78 @@
+<level>
+    <id> 43 </id>
+    <height> 5 </height>
+    <width> 5 </width>
+
+    <walls>
+        <wall>
+            <from>
+                <row> 2 </row>
+                <column> 3 </column>
+            </from>
+            <to>
+                <row> 3 </row>
+                <column> 3 </column>
+            </to>
+        </wall>
+        <wall>
+            <from>
+                <row> 3 </row>
+                <column> 2 </column>
+            </from>
+            <to>
+                <row> 3 </row>
+                <column> 2 </column>
+            </to>
+        </wall>
+    </walls>
+
+    <heroes>
+        <hero>
+            <id> 0 </id>
+            <row> 0 </row>
+            <column> 1 </column>
+            <moves> 207 </moves>
+        </hero>
+        <hero>
+            <id> 1 </id>
+            <row> 1 </row>
+            <column> 0 </column>
+            <moves> 207 </moves>
+        </hero>
+    </heroes>
+
+    <start>
+        <row> 0 </row>
+        <column> 1 </column>
+    </start>
+
+    <destinations>
+        <destination>
+            <row> 0 </row>
+            <column> 4 </column>
+        </destination>
+        <destination>
+            <row> 4 </row>
+            <column> 0 </column>
+        </destination>
+        <destination>
+            <row> 4 </row>
+            <column> 4 </column>
+        </destination>
+    </destinations>
+
+    <bonuses>
+        <bonus>
+            <row> 0 </row>
+            <column> 0 </column>
+            <value> 700 </value>
+        </bonus>
+    </bonuses>
+
+    <solution>
+        <score> 14 </score>
+        <moves>
+            0 1 0 0, 0 0 0 1, 0 1 0 2, 0 2 0 3, 0 3 0 4, 0 4 0 3, 0 3 0 2, 0 2 0 1, 1 0 0 0, 0 1 0 0, 0 0 1 0, 1 0 2 0, 2 0 3 0, 3 0 4 0, 4 0 4 1, 4 1 4 2, 4 2 4 3, 4 3 4 4
+        </moves>
+    </solution>
+</level>

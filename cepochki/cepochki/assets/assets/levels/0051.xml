@@ -1,0 +1,44 @@
+<level>
+    <id> 51 </id>
+    <height> 5 </height>
+    <width> 1 </width>
+
+    <walls>
+    </walls>
+
+    <heroes>
+        <hero>
+            <id> 0 </id>
+            <row> 0 </row>
+            <column> 0 </column>
+            <moves> 765 </moves>
+        </hero>
+    </heroes>
+
+    <start>
+        <row> 0 </row>
+        <column> 0 </column>
+    </start>
+
+    <destinations>
+        <destination>
+            <row> 4 </row>
+            <column> 0 </column>
+        </destination>
+    </destinations>
+
+    <bonuses>
+        <bonus>
+            <row> 2 </row>
+            <column> 0 </column>
+            <value> -321 </value>
+        </bonus>
+    </bonuses>
+
+    <solution>
+        <score> 44 </score>
+        <moves>
+            0 0 1 0, 1 0 2 0, 2 0 3 0, 3 0 4 0
+        </moves>
+    </solution>
+</level>
