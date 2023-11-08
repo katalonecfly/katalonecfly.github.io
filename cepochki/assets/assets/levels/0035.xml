@@ -1,0 +1,1172 @@
+<level>
+	<id> 35 </id>
+	<width> 13 </width>
+	<height> 13 </height>
+
+	<walls>
+		<wall>
+			<from>
+				<row> 0 </row>
+				<column> 0 </column>
+			</from>
+			<to>
+				<row> 0 </row>
+				<column> 0 </column>
+			</to>
+		</wall>
+		<wall>
+			<from>
+				<row> 0 </row>
+				<column> 2 </column>
+			</from>
+			<to>
+				<row> 0 </row>
+				<column> 2 </column>
+			</to>
+		</wall>
+		<wall>
+			<from>
+				<row> 0 </row>
+				<column> 3 </column>
+			</from>
+			<to>
+				<row> 0 </row>
+				<column> 3 </column>
+			</to>
+		</wall>
+		<wall>
+			<from>
+				<row> 0 </row>
+				<column> 4 </column>
+			</from>
+			<to>
+				<row> 0 </row>
+				<column> 4 </column>
+			</to>
+		</wall>
+		<wall>
+			<from>
+				<row> 0 </row>
+				<column> 5 </column>
+			</from>
+			<to>
+				<row> 0 </row>
+				<column> 5 </column>
+			</to>
+		</wall>
+		<wall>
+			<from>
+				<row> 0 </row>
+				<column> 7 </column>
+			</from>
+			<to>
+				<row> 0 </row>
+				<column> 7 </column>
+			</to>
+		</wall>
+		<wall>
+			<from>
+				<row> 0 </row>
+				<column> 8 </column>
+			</from>
+			<to>
+				<row> 0 </row>
+				<column> 8 </column>
+			</to>
+		</wall>
+		<wall>
+			<from>
+				<row> 0 </row>
+				<column> 9 </column>
+			</from>
+			<to>
+				<row> 0 </row>
+				<column> 9 </column>
+			</to>
+		</wall>
+		<wall>
+			<from>
+				<row> 0 </row>
+				<column> 10 </column>
+			</from>
+			<to>
+				<row> 0 </row>
+				<column> 10 </column>
+			</to>
+		</wall>
+		<wall>
+			<from>
+				<row> 0 </row>
+				<column> 12 </column>
+			</from>
+			<to>
+				<row> 0 </row>
+				<column> 12 </column>
+			</to>
+		</wall>
+		<wall>
+			<from>
+				<row> 1 </row>
+				<column> 3 </column>
+			</from>
+			<to>
+				<row> 1 </row>
+				<column> 3 </column>
+			</to>
+		</wall>
+		<wall>
+			<from>
+				<row> 1 </row>
+				<column> 4 </column>
+			</from>
+			<to>
+				<row> 1 </row>
+				<column> 4 </column>
+			</to>
+		</wall>
+		<wall>
+			<from>
+				<row> 1 </row>
+				<column> 6 </column>
+			</from>
+			<to>
+				<row> 1 </row>
+				<column> 6 </column>
+			</to>
+		</wall>
+		<wall>
+			<from>
+				<row> 1 </row>
+				<column> 8 </column>
+			</from>
+			<to>
+				<row> 1 </row>
+				<column> 8 </column>
+			</to>
+		</wall>
+		<wall>
+			<from>
+				<row> 1 </row>
+				<column> 9 </column>
+			</from>
+			<to>
+				<row> 1 </row>
+				<column> 9 </column>
+			</to>
+		</wall>
+		<wall>
+			<from>
+				<row> 2 </row>
+				<column> 0 </column>
+			</from>
+			<to>
+				<row> 2 </row>
+				<column> 0 </column>
+			</to>
+		</wall>
+		<wall>
+			<from>
+				<row> 2 </row>
+				<column> 2 </column>
+			</from>
+			<to>
+				<row> 2 </row>
+				<column> 2 </column>
+			</to>
+		</wall>
+		<wall>
+			<from>
+				<row> 2 </row>
+				<column> 3 </column>
+			</from>
+			<to>
+				<row> 2 </row>
+				<column> 3 </column>
+			</to>
+		</wall>
+		<wall>
+			<from>
+				<row> 2 </row>
+				<column> 5 </column>
+			</from>
+			<to>
+				<row> 2 </row>
+				<column> 5 </column>
+			</to>
+		</wall>
+		<wall>
+			<from>
+				<row> 2 </row>
+				<column> 6 </column>
+			</from>
+			<to>
+				<row> 2 </row>
+				<column> 6 </column>
+			</to>
+		</wall>
+		<wall>
+			<from>
+				<row> 2 </row>
+				<column> 7 </column>
+			</from>
+			<to>
+				<row> 2 </row>
+				<column> 7 </column>
+			</to>
+		</wall>
+		<wall>
+			<from>
+				<row> 2 </row>
+				<column> 9 </column>
+			</from>
+			<to>
+				<row> 2 </row>
+				<column> 9 </column>
+			</to>
+		</wall>
+		<wall>
+			<from>
+				<row> 2 </row>
+				<column> 10 </column>
+			</from>
+			<to>
+				<row> 2 </row>
+				<column> 10 </column>
+			</to>
+		</wall>
+		<wall>
+			<from>
+				<row> 2 </row>
+				<column> 12 </column>
+			</from>
+			<to>
+				<row> 2 </row>
+				<column> 12 </column>
+			</to>
+		</wall>
+		<wall>
+			<from>
+				<row> 3 </row>
+				<column> 0 </column>
+			</from>
+			<to>
+				<row> 3 </row>
+				<column> 0 </column>
+			</to>
+		</wall>
+		<wall>
+			<from>
+				<row> 3 </row>
+				<column> 1 </column>
+			</from>
+			<to>
+				<row> 3 </row>
+				<column> 1 </column>
+			</to>
+		</wall>
+		<wall>
+			<from>
+				<row> 3 </row>
+				<column> 2 </column>
+			</from>
+			<to>
+				<row> 3 </row>
+				<column> 2 </column>
+			</to>
+		</wall>
+		<wall>
+			<from>
+				<row> 3 </row>
+				<column> 10 </column>
+			</from>
+			<to>
+				<row> 3 </row>
+				<column> 10 </column>
+			</to>
+		</wall>
+		<wall>
+			<from>
+				<row> 3 </row>
+				<column> 11 </column>
+			</from>
+			<to>
+				<row> 3 </row>
+				<column> 11 </column>
+			</to>
+		</wall>
+		<wall>
+			<from>
+				<row> 3 </row>
+				<column> 12 </column>
+			</from>
+			<to>
+				<row> 3 </row>
+				<column> 12 </column>
+			</to>
+		</wall>
+		<wall>
+			<from>
+				<row> 4 </row>
+				<column> 0 </column>
+			</from>
+			<to>
+				<row> 4 </row>
+				<column> 0 </column>
+			</to>
+		</wall>
+		<wall>
+			<from>
+				<row> 4 </row>
+				<column> 1 </column>
+			</from>
+			<to>
+				<row> 4 </row>
+				<column> 1 </column>
+			</to>
+		</wall>
+		<wall>
+			<from>
+				<row> 4 </row>
+				<column> 4 </column>
+			</from>
+			<to>
+				<row> 4 </row>
+				<column> 4 </column>
+			</to>
+		</wall>
+		<wall>
+			<from>
+				<row> 4 </row>
+				<column> 5 </column>
+			</from>
+			<to>
+				<row> 4 </row>
+				<column> 5 </column>
+			</to>
+		</wall>
+		<wall>
+			<from>
+				<row> 4 </row>
+				<column> 6 </column>
+			</from>
+			<to>
+				<row> 4 </row>
+				<column> 6 </column>
+			</to>
+		</wall>
+		<wall>
+			<from>
+				<row> 4 </row>
+				<column> 7 </column>
+			</from>
+			<to>
+				<row> 4 </row>
+				<column> 7 </column>
+			</to>
+		</wall>
+		<wall>
+			<from>
+				<row> 4 </row>
+				<column> 8 </column>
+			</from>
+			<to>
+				<row> 4 </row>
+				<column> 8 </column>
+			</to>
+		</wall>
+		<wall>
+			<from>
+				<row> 4 </row>
+				<column> 11 </column>
+			</from>
+			<to>
+				<row> 4 </row>
+				<column> 11 </column>
+			</to>
+		</wall>
+		<wall>
+			<from>
+				<row> 4 </row>
+				<column> 12 </column>
+			</from>
+			<to>
+				<row> 4 </row>
+				<column> 12 </column>
+			</to>
+		</wall>
+		<wall>
+			<from>
+				<row> 5 </row>
+				<column> 0 </column>
+			</from>
+			<to>
+				<row> 5 </row>
+				<column> 0 </column>
+			</to>
+		</wall>
+		<wall>
+			<from>
+				<row> 5 </row>
+				<column> 2 </column>
+			</from>
+			<to>
+				<row> 5 </row>
+				<column> 2 </column>
+			</to>
+		</wall>
+		<wall>
+			<from>
+				<row> 5 </row>
+				<column> 4 </column>
+			</from>
+			<to>
+				<row> 5 </row>
+				<column> 4 </column>
+			</to>
+		</wall>
+		<wall>
+			<from>
+				<row> 5 </row>
+				<column> 8 </column>
+			</from>
+			<to>
+				<row> 5 </row>
+				<column> 8 </column>
+			</to>
+		</wall>
+		<wall>
+			<from>
+				<row> 5 </row>
+				<column> 10 </column>
+			</from>
+			<to>
+				<row> 5 </row>
+				<column> 10 </column>
+			</to>
+		</wall>
+		<wall>
+			<from>
+				<row> 5 </row>
+				<column> 12 </column>
+			</from>
+			<to>
+				<row> 5 </row>
+				<column> 12 </column>
+			</to>
+		</wall>
+		<wall>
+			<from>
+				<row> 6 </row>
+				<column> 1 </column>
+			</from>
+			<to>
+				<row> 6 </row>
+				<column> 1 </column>
+			</to>
+		</wall>
+		<wall>
+			<from>
+				<row> 6 </row>
+				<column> 2 </column>
+			</from>
+			<to>
+				<row> 6 </row>
+				<column> 2 </column>
+			</to>
+		</wall>
+		<wall>
+			<from>
+				<row> 6 </row>
+				<column> 4 </column>
+			</from>
+			<to>
+				<row> 6 </row>
+				<column> 4 </column>
+			</to>
+		</wall>
+		<wall>
+			<from>
+				<row> 6 </row>
+				<column> 8 </column>
+			</from>
+			<to>
+				<row> 6 </row>
+				<column> 8 </column>
+			</to>
+		</wall>
+		<wall>
+			<from>
+				<row> 6 </row>
+				<column> 10 </column>
+			</from>
+			<to>
+				<row> 6 </row>
+				<column> 10 </column>
+			</to>
+		</wall>
+		<wall>
+			<from>
+				<row> 6 </row>
+				<column> 11 </column>
+			</from>
+			<to>
+				<row> 6 </row>
+				<column> 11 </column>
+			</to>
+		</wall>
+		<wall>
+			<from>
+				<row> 7 </row>
+				<column> 0 </column>
+			</from>
+			<to>
+				<row> 7 </row>
+				<column> 0 </column>
+			</to>
+		</wall>
+		<wall>
+			<from>
+				<row> 7 </row>
+				<column> 2 </column>
+			</from>
+			<to>
+				<row> 7 </row>
+				<column> 2 </column>
+			</to>
+		</wall>
+		<wall>
+			<from>
+				<row> 7 </row>
+				<column> 4 </column>
+			</from>
+			<to>
+				<row> 7 </row>
+				<column> 4 </column>
+			</to>
+		</wall>
+		<wall>
+			<from>
+				<row> 7 </row>
+				<column> 8 </column>
+			</from>
+			<to>
+				<row> 7 </row>
+				<column> 8 </column>
+			</to>
+		</wall>
+		<wall>
+			<from>
+				<row> 7 </row>
+				<column> 10 </column>
+			</from>
+			<to>
+				<row> 7 </row>
+				<column> 10 </column>
+			</to>
+		</wall>
+		<wall>
+			<from>
+				<row> 7 </row>
+				<column> 12 </column>
+			</from>
+			<to>
+				<row> 7 </row>
+				<column> 12 </column>
+			</to>
+		</wall>
+		<wall>
+			<from>
+				<row> 8 </row>
+				<column> 0 </column>
+			</from>
+			<to>
+				<row> 8 </row>
+				<column> 0 </column>
+			</to>
+		</wall>
+		<wall>
+			<from>
+				<row> 8 </row>
+				<column> 1 </column>
+			</from>
+			<to>
+				<row> 8 </row>
+				<column> 1 </column>
+			</to>
+		</wall>
+		<wall>
+			<from>
+				<row> 8 </row>
+				<column> 4 </column>
+			</from>
+			<to>
+				<row> 8 </row>
+				<column> 4 </column>
+			</to>
+		</wall>
+		<wall>
+			<from>
+				<row> 8 </row>
+				<column> 5 </column>
+			</from>
+			<to>
+				<row> 8 </row>
+				<column> 5 </column>
+			</to>
+		</wall>
+		<wall>
+			<from>
+				<row> 8 </row>
+				<column> 6 </column>
+			</from>
+			<to>
+				<row> 8 </row>
+				<column> 6 </column>
+			</to>
+		</wall>
+		<wall>
+			<from>
+				<row> 8 </row>
+				<column> 7 </column>
+			</from>
+			<to>
+				<row> 8 </row>
+				<column> 7 </column>
+			</to>
+		</wall>
+		<wall>
+			<from>
+				<row> 8 </row>
+				<column> 8 </column>
+			</from>
+			<to>
+				<row> 8 </row>
+				<column> 8 </column>
+			</to>
+		</wall>
+		<wall>
+			<from>
+				<row> 8 </row>
+				<column> 11 </column>
+			</from>
+			<to>
+				<row> 8 </row>
+				<column> 11 </column>
+			</to>
+		</wall>
+		<wall>
+			<from>
+				<row> 8 </row>
+				<column> 12 </column>
+			</from>
+			<to>
+				<row> 8 </row>
+				<column> 12 </column>
+			</to>
+		</wall>
+		<wall>
+			<from>
+				<row> 9 </row>
+				<column> 0 </column>
+			</from>
+			<to>
+				<row> 9 </row>
+				<column> 0 </column>
+			</to>
+		</wall>
+		<wall>
+			<from>
+				<row> 9 </row>
+				<column> 1 </column>
+			</from>
+			<to>
+				<row> 9 </row>
+				<column> 1 </column>
+			</to>
+		</wall>
+		<wall>
+			<from>
+				<row> 9 </row>
+				<column> 2 </column>
+			</from>
+			<to>
+				<row> 9 </row>
+				<column> 2 </column>
+			</to>
+		</wall>
+		<wall>
+			<from>
+				<row> 9 </row>
+				<column> 10 </column>
+			</from>
+			<to>
+				<row> 9 </row>
+				<column> 10 </column>
+			</to>
+		</wall>
+		<wall>
+			<from>
+				<row> 9 </row>
+				<column> 11 </column>
+			</from>
+			<to>
+				<row> 9 </row>
+				<column> 11 </column>
+			</to>
+		</wall>
+		<wall>
+			<from>
+				<row> 9 </row>
+				<column> 12 </column>
+			</from>
+			<to>
+				<row> 9 </row>
+				<column> 12 </column>
+			</to>
+		</wall>
+		<wall>
+			<from>
+				<row> 10 </row>
+				<column> 0 </column>
+			</from>
+			<to>
+				<row> 10 </row>
+				<column> 0 </column>
+			</to>
+		</wall>
+		<wall>
+			<from>
+				<row> 10 </row>
+				<column> 2 </column>
+			</from>
+			<to>
+				<row> 10 </row>
+				<column> 2 </column>
+			</to>
+		</wall>
+		<wall>
+			<from>
+				<row> 10 </row>
+				<column> 3 </column>
+			</from>
+			<to>
+				<row> 10 </row>
+				<column> 3 </column>
+			</to>
+		</wall>
+		<wall>
+			<from>
+				<row> 10 </row>
+				<column> 5 </column>
+			</from>
+			<to>
+				<row> 10 </row>
+				<column> 5 </column>
+			</to>
+		</wall>
+		<wall>
+			<from>
+				<row> 10 </row>
+				<column> 6 </column>
+			</from>
+			<to>
+				<row> 10 </row>
+				<column> 6 </column>
+			</to>
+		</wall>
+		<wall>
+			<from>
+				<row> 10 </row>
+				<column> 7 </column>
+			</from>
+			<to>
+				<row> 10 </row>
+				<column> 7 </column>
+			</to>
+		</wall>
+		<wall>
+			<from>
+				<row> 10 </row>
+				<column> 9 </column>
+			</from>
+			<to>
+				<row> 10 </row>
+				<column> 9 </column>
+			</to>
+		</wall>
+		<wall>
+			<from>
+				<row> 10 </row>
+				<column> 10 </column>
+			</from>
+			<to>
+				<row> 10 </row>
+				<column> 10 </column>
+			</to>
+		</wall>
+		<wall>
+			<from>
+				<row> 10 </row>
+				<column> 12 </column>
+			</from>
+			<to>
+				<row> 10 </row>
+				<column> 12 </column>
+			</to>
+		</wall>
+		<wall>
+			<from>
+				<row> 11 </row>
+				<column> 3 </column>
+			</from>
+			<to>
+				<row> 11 </row>
+				<column> 3 </column>
+			</to>
+		</wall>
+		<wall>
+			<from>
+				<row> 11 </row>
+				<column> 4 </column>
+			</from>
+			<to>
+				<row> 11 </row>
+				<column> 4 </column>
+			</to>
+		</wall>
+		<wall>
+			<from>
+				<row> 11 </row>
+				<column> 6 </column>
+			</from>
+			<to>
+				<row> 11 </row>
+				<column> 6 </column>
+			</to>
+		</wall>
+		<wall>
+			<from>
+				<row> 11 </row>
+				<column> 8 </column>
+			</from>
+			<to>
+				<row> 11 </row>
+				<column> 8 </column>
+			</to>
+		</wall>
+		<wall>
+			<from>
+				<row> 11 </row>
+				<column> 9 </column>
+			</from>
+			<to>
+				<row> 11 </row>
+				<column> 9 </column>
+			</to>
+		</wall>
+		<wall>
+			<from>
+				<row> 12 </row>
+				<column> 0 </column>
+			</from>
+			<to>
+				<row> 12 </row>
+				<column> 0 </column>
+			</to>
+		</wall>
+		<wall>
+			<from>
+				<row> 12 </row>
+				<column> 2 </column>
+			</from>
+			<to>
+				<row> 12 </row>
+				<column> 2 </column>
+			</to>
+		</wall>
+		<wall>
+			<from>
+				<row> 12 </row>
+				<column> 3 </column>
+			</from>
+			<to>
+				<row> 12 </row>
+				<column> 3 </column>
+			</to>
+		</wall>
+		<wall>
+			<from>
+				<row> 12 </row>
+				<column> 4 </column>
+			</from>
+			<to>
+				<row> 12 </row>
+				<column> 4 </column>
+			</to>
+		</wall>
+		<wall>
+			<from>
+				<row> 12 </row>
+				<column> 5 </column>
+			</from>
+			<to>
+				<row> 12 </row>
+				<column> 5 </column>
+			</to>
+		</wall>
+		<wall>
+			<from>
+				<row> 12 </row>
+				<column> 7 </column>
+			</from>
+			<to>
+				<row> 12 </row>
+				<column> 7 </column>
+			</to>
+		</wall>
+		<wall>
+			<from>
+				<row> 12 </row>
+				<column> 8 </column>
+			</from>
+			<to>
+				<row> 12 </row>
+				<column> 8 </column>
+			</to>
+		</wall>
+		<wall>
+			<from>
+				<row> 12 </row>
+				<column> 9 </column>
+			</from>
+			<to>
+				<row> 12 </row>
+				<column> 9 </column>
+			</to>
+		</wall>
+		<wall>
+			<from>
+				<row> 12 </row>
+				<column> 10 </column>
+			</from>
+			<to>
+				<row> 12 </row>
+				<column> 10 </column>
+			</to>
+		</wall>
+		<wall>
+			<from>
+				<row> 12 </row>
+				<column> 12 </column>
+			</from>
+			<to>
+				<row> 12 </row>
+				<column> 12 </column>
+			</to>
+		</wall>
+	</walls>
+
+	<heroes>
+		<hero>
+			<id> 0 </id>
+			<row> 0 </row>
+			<column> 6 </column>
+			<moves> 2538 </moves>
+		</hero>
+		<hero>
+			<id> 1 </id>
+			<row> 3 </row>
+			<column> 3 </column>
+			<moves> 200 </moves>
+		</hero>
+		<hero>
+			<id> 2 </id>
+			<row> 3 </row>
+			<column> 4 </column>
+			<moves> 200 </moves>
+		</hero>
+		<hero>
+			<id> 3 </id>
+			<row> 3 </row>
+			<column> 5 </column>
+			<moves> 200 </moves>
+		</hero>
+		<hero>
+			<id> 4 </id>
+			<row> 3 </row>
+			<column> 6 </column>
+			<moves> 200 </moves>
+		</hero>
+		<hero>
+			<id> 5 </id>
+			<row> 3 </row>
+			<column> 7 </column>
+			<moves> 200 </moves>
+		</hero>
+		<hero>
+			<id> 6 </id>
+			<row> 3 </row>
+			<column> 8 </column>
+			<moves> 200 </moves>
+		</hero>
+		<hero>
+			<id> 7 </id>
+			<row> 3 </row>
+			<column> 9 </column>
+			<moves> 200 </moves>
+		</hero>
+		<hero>
+			<id> 8 </id>
+			<row> 4 </row>
+			<column> 3 </column>
+			<moves> 200 </moves>
+		</hero>
+		<hero>
+			<id> 9 </id>
+			<row> 4 </row>
+			<column> 9 </column>
+			<moves> 200 </moves>
+		</hero>
+		<hero>
+			<id> 10 </id>
+			<row> 5 </row>
+			<column> 3 </column>
+			<moves> 200 </moves>
+		</hero>
+		<hero>
+			<id> 11 </id>
+			<row> 5 </row>
+			<column> 9 </column>
+			<moves> 200 </moves>
+		</hero>
+		<hero>
+			<id> 12 </id>
+			<row> 6 </row>
+			<column> 3 </column>
+			<moves> 200 </moves>
+		</hero>
+		<hero>
+			<id> 13 </id>
+			<row> 6 </row>
+			<column> 9 </column>
+			<moves> 200 </moves>
+		</hero>
+		<hero>
+			<id> 14 </id>
+			<row> 7 </row>
+			<column> 3 </column>
+			<moves> 200 </moves>
+		</hero>
+		<hero>
+			<id> 15 </id>
+			<row> 7 </row>
+			<column> 9 </column>
+			<moves> 200 </moves>
+		</hero>
+		<hero>
+			<id> 16 </id>
+			<row> 8 </row>
+			<column> 3 </column>
+			<moves> 200 </moves>
+		</hero>
+		<hero>
+			<id> 17 </id>
+			<row> 8 </row>
+			<column> 9 </column>
+			<moves> 200 </moves>
+		</hero>
+		<hero>
+			<id> 18 </id>
+			<row> 9 </row>
+			<column> 3 </column>
+			<moves> 200 </moves>
+		</hero>
+		<hero>
+			<id> 19 </id>
+			<row> 9 </row>
+			<column> 4 </column>
+			<moves> 200 </moves>
+		</hero>
+		<hero>
+			<id> 20 </id>
+			<row> 9 </row>
+			<column> 5 </column>
+			<moves> 200 </moves>
+		</hero>
+		<hero>
+			<id> 21 </id>
+			<row> 9 </row>
+			<column> 7 </column>
+			<moves> 200 </moves>
+		</hero>
+		<hero>
+			<id> 22 </id>
+			<row> 9 </row>
+			<column> 8 </column>
+			<moves> 200 </moves>
+		</hero>
+		<hero>
+			<id> 23 </id>
+			<row> 9 </row>
+			<column> 9 </column>
+			<moves> 200 </moves>
+		</hero>
+		<hero>
+			<id> 24 </id>
+			<row> 1 </row>
+			<column> 1 </column>
+			<moves> 1111 </moves>
+		</hero>
+		<hero>
+			<id> 25 </id>
+			<row> 1 </row>
+			<column> 11 </column>
+			<moves> 1111 </moves>
+		</hero>
+		<hero>
+			<id> 26 </id>
+			<row> 11 </row>
+			<column> 1 </column>
+			<moves> 1111 </moves>
+		</hero>
+		<hero>
+			<id> 27 </id>
+			<row> 11 </row>
+			<column> 11 </column>
+			<moves> 1111 </moves>
+		</hero>
+		<hero>
+			<id> 28 </id>
+			<row> 6 </row>
+			<column> 6 </column>
+			<moves> 2222 </moves>
+		</hero>
+	</heroes>
+
+	<start>
+		<row> 0 </row>
+		<column> 6 </column>
+	</start>
+
+	<destinations>
+		<destination>
+			<row> 6 </row>
+			<column> 0 </column>
+		</destination>
+		<destination>
+			<row> 6 </row>
+			<column> 12 </column>
+		</destination>
+		<destination>
+			<row> 12 </row>
+			<column> 6 </column>
+		</destination>
+	</destinations>
+
+	<solution>
+		<score> 9884 </score>
+		<moves>
+			3 5 2 4, 3 6 3 5, 3 7 3 6, 3 8 3 7, 3 9 3 8, 0 6 1 7, 1 7 2 8, 2 8 3 9, 3 9 4 10, 4 10 5 11, 5 11 6 12, 6 12 7 11, 7 11 8 10, 9 7 9 6, 9 8 9 7, 9 9 9 8, 8 10 9 9, 9 9 10 8, 10 8 11 7, 11 7 12 6, 12 6 11 5, 11 5 10 4, 5 3 4 2, 6 3 5 3, 7 3 6 3, 8 3 7 3, 9 3 8 3, 10 4 9 3, 9 3 8 2, 8 2 7 1, 7 1 6 0
+		</moves>
+	</solution>
+</level>

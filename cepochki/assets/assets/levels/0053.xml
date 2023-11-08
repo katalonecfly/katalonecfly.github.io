@@ -1,0 +1,94 @@
+<level>
+    <id> 53 </id>
+    <height> 3 </height>
+    <width> 13 </width>
+
+    <walls>
+        <wall>
+            <from>
+                <row> 0 </row>
+                <column> 4 </column>
+            </from>
+            <to>
+                <row> 0 </row>
+                <column> 4 </column>
+            </to>
+        </wall>
+        <wall>
+            <from>
+                <row> 2 </row>
+                <column> 4 </column>
+            </from>
+            <to>
+                <row> 2 </row>
+                <column> 4 </column>
+            </to>
+        </wall>
+        <wall>
+            <from>
+                <row> 0 </row>
+                <column> 8 </column>
+            </from>
+            <to>
+                <row> 0 </row>
+                <column> 8 </column>
+            </to>
+        </wall>
+        <wall>
+            <from>
+                <row> 2 </row>
+                <column> 8 </column>
+            </from>
+            <to>
+                <row> 2 </row>
+                <column> 8 </column>
+            </to>
+        </wall>
+    </walls>
+
+    <heroes>
+        <hero>
+            <id> 0 </id>
+            <row> 1 </row>
+            <column> 0 </column>
+            <moves> 2000 </moves>
+        </hero>
+    </heroes>
+
+    <start>
+        <row> 1 </row>
+        <column> 0 </column>
+    </start>
+
+    <destinations>
+        <destination>
+            <row> 1 </row>
+            <column> 12 </column>
+        </destination>
+    </destinations>
+
+    <bonuses>
+        <bonus>
+            <row> 1 </row>
+            <column> 2 </column>
+            <value> -83 </value>
+        </bonus>
+        <bonus>
+            <row> 1 </row>
+            <column> 6 </column>
+            <value> -82 </value>
+        </bonus>
+        <bonus>
+            <row> 1 </row>
+            <column> 10 </column>
+            <value> -81 </value>
+        </bonus>
+    </bonuses>
+
+    <solution>
+        <score> 555 </score>
+        <moves>
+            1 0 1 1, 1 1 2 2, 2 2 1 3, 1 3 1 4, 1 4 1 5, 1 5 1 6, 1 6 1 7, 1 7 1 8, 1 8 1 9, 1 9 1 10, 1 10 1 11, 1 11 1 12
+        </moves>
+    </solution>
+</level>
