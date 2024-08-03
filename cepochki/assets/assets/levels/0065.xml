@@ -1,0 +1,94 @@
+<level>
+    <id> 65 </id>
+    <height> 5 </height>
+    <width> 8 </width>
+
+    <walls>
+    </walls>
+
+    <roads>
+        <road>
+            <from>
+                <row> 0 </row>
+                <column> 1 </column>
+            </from>
+            <to>
+                <row> 0 </row>
+                <column> 4 </column>
+            </to>
+        </road>
+        <road>
+            <from>
+                <row> 1 </row>
+                <column> 5 </column>
+            </from>
+            <to>
+                <row> 1 </row>
+                <column> 5 </column>
+            </to>
+        </road>
+        <road>
+            <from>
+                <row> 2 </row>
+                <column> 6 </column>
+            </from>
+            <to>
+                <row> 2 </row>
+                <column> 6 </column>
+            </to>
+        </road>
+        <road>
+            <from>
+                <row> 3 </row>
+                <column> 7 </column>
+            </from>
+            <to>
+                <row> 3 </row>
+                <column> 7 </column>
+            </to>
+        </road>
+    </roads>>
+
+    <heroes>
+        <hero>
+            <id> 0 </id>
+            <row> 0 </row>
+            <column> 0 </column>
+            <moves> 201 </moves>
+        </hero>
+        <hero>
+            <id> 1 </id>
+            <row> 0 </row>
+            <column> 3 </column>
+            <moves> 121 </moves>
+        </hero>
+        <hero>
+            <id> 2 </id>
+            <row> 2 </row>
+            <column> 6 </column>
+            <moves> 241 </moves>
+        </hero>
+    </heroes>
+
+    <start>
+        <row> 0 </row>
+        <column> 0 </column>
+    </start>
+
+    <destinations>
+        <destination>
+            <row> 4 </row>
+            <column> 7 </column>
+        </destination>
+    </destinations>
+
+    <bonuses>
+    </bonuses>
+
+    <solution>
+        <score> 3 </score>
+        <moves>
+            0 0 0 1, 0 1 0 2, 0 2 0 3, 0 3 0 4, 0 4 1 5, 2 6 1 5, 2 6 3 7, 3 7 4 7
+        </moves>
+    </solution>
+</level>

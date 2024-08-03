@@ -1,0 +1,100 @@
+<level>
+    <id> 69 </id>
+    <height> 7 </height>
+    <width> 8 </width>
+
+    <walls>
+        <wall>
+            <from>
+                <row> 3 </row>
+                <column> 0 </column>
+            </from>
+            <to>
+                <row> 3 </row>
+                <column> 2 </column>
+            </to>
+        </wall>
+        <wall>
+            <from>
+                <row> 3 </row>
+                <column> 5 </column>
+            </from>
+            <to>
+                <row> 3 </row>
+                <column> 7 </column>
+            </to>
+        </wall>
+    </walls>
+
+    <roads>
+        <road>
+            <from>
+                <row> 3 </row>
+                <column> 3 </column>
+            </from>
+            <to>
+                <row> 2 </row>
+                <column> 4 </column>
+            </to>
+        </road>
+        <road>
+            <from>
+                <row> 4 </row>
+                <column> 4 </column>
+            </from>
+            <to>
+                <row> 4 </row>
+                <column> 4 </column>
+            </to>
+        </road>
+    </roads>>
+
+    <heroes>
+        <hero>
+            <id> 0 </id>
+            <row> 6 </row>
+            <column> 4 </column>
+            <moves> 300 </moves>
+        </hero>
+        <hero>
+            <id> 1 </id>
+            <row> 3 </row>
+            <column> 3 </column>
+            <moves> 6 </moves>
+        </hero>
+        <hero>
+            <id> 2 </id>
+            <row> 3 </row>
+            <column> 4 </column>
+            <moves> 9 </moves>
+        </hero>
+        <hero>
+            <id> 3 </id>
+            <row> 1 </row>
+            <column> 1 </column>
+            <moves> 676 </moves>
+        </hero>
+    </heroes>
+
+    <start>
+        <row> 6 </row>
+        <column> 4 </column>
+    </start>
+
+    <destinations>
+        <destination>
+            <row> 1 </row>
+            <column> 6 </column>
+        </destination>
+    </destinations>
+
+    <bonuses>
+    </bonuses>
+
+    <solution>
+        <score> 69 </score>
+        <moves>
+            6 4 5 4, 5 4 4 4, 4 4 3 3, 1 1 1 2, 1 2 1 3, 1 3 2 4, 2 4 3 3, 2 4 2 5, 2 5 1 6
+        </moves>
+    </solution>
+</level>

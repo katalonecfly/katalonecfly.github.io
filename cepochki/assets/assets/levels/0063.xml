@@ -1,0 +1,92 @@
+<level>
+    <id> 63 </id>
+    <height> 5 </height>
+    <width> 5 </width>
+
+    <walls>
+    </walls>
+
+    <roads>
+        <road>
+            <from>
+                <row> 4 </row>
+                <column> 0 </column>
+            </from>
+            <to>
+                <row> 3 </row>
+                <column> 0 </column>
+            </to>
+        </road>
+        <road>
+            <from>
+                <row> 2 </row>
+                <column> 1 </column>
+            </from>
+            <to>
+                <row> 2 </row>
+                <column> 1 </column>
+            </to>
+        </road>
+        <road>
+            <from>
+                <row> 1 </row>
+                <column> 2 </column>
+            </from>
+            <to>
+                <row> 1 </row>
+                <column> 2 </column>
+            </to>
+        </road>
+        <road>
+            <from>
+                <row> 2 </row>
+                <column> 3 </column>
+            </from>
+            <to>
+                <row> 2 </row>
+                <column> 3 </column>
+            </to>
+        </road>
+        <road>
+            <from>
+                <row> 3 </row>
+                <column> 4 </column>
+            </from>
+            <to>
+                <row> 4 </row>
+                <column> 4 </column>
+            </to>
+        </road>
+    </roads>>
+
+    <heroes>
+        <hero>
+            <id> 0 </id>
+            <row> 4 </row>
+            <column> 0 </column>
+            <moves> 399 </moves>
+        </hero>
+    </heroes>
+
+    <start>
+        <row> 4 </row>
+        <column> 0 </column>
+    </start>
+
+    <destinations>
+        <destination>
+            <row> 4 </row>
+            <column> 4 </column>
+        </destination>
+    </destinations>
+
+    <bonuses>
+    </bonuses>
+
+    <solution>
+        <score> 19 </score>
+        <moves>
+            4 0 3 0, 3 0 2 1, 2 1 1 2, 1 2 2 3, 2 3 3 4, 3 4 4 4
+        </moves>
+    </solution>
+</level>

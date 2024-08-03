@@ -1,0 +1,352 @@
+<level>
+    <id> 78 </id>
+    <height> 12 </height>
+    <width> 12 </width>
+
+    <walls>
+        <wall>
+            <from>
+                <row> 4 </row>
+                <column> 3 </column>
+            </from>
+            <to>
+                <row> 4 </row>
+                <column> 8 </column>
+            </to>
+        </wall>
+        <wall>
+            <from>
+                <row> 3 </row>
+                <column> 4 </column>
+            </from>
+            <to>
+                <row> 8 </row>
+                <column> 4 </column>
+            </to>
+        </wall>
+        <wall>
+            <from>
+                <row> 7 </row>
+                <column> 3 </column>
+            </from>
+            <to>
+                <row> 7 </row>
+                <column> 8 </column>
+            </to>
+        </wall>
+        <wall>
+            <from>
+                <row> 3 </row>
+                <column> 7 </column>
+            </from>
+            <to>
+                <row> 8 </row>
+                <column> 7 </column>
+            </to>
+        </wall>
+    </walls>
+
+    <roads>
+        <road>
+            <from>
+                <row> 0 </row>
+                <column> 8 </column>
+            </from>
+            <to>
+                <row> 3 </row>
+                <column> 8 </column>
+            </to>
+        </road>
+        <road>
+            <from>
+                <row> 0 </row>
+                <column> 9 </column>
+            </from>
+            <to>
+                <row> 3 </row>
+                <column> 9 </column>
+            </to>
+        </road>
+        <road>
+            <from>
+                <row> 0 </row>
+                <column> 10 </column>
+            </from>
+            <to>
+                <row> 3 </row>
+                <column> 10 </column>
+            </to>
+        </road>
+        <road>
+            <from>
+                <row> 0 </row>
+                <column> 11 </column>
+            </from>
+            <to>
+                <row> 3 </row>
+                <column> 11 </column>
+            </to>
+        </road>
+    </roads>>
+
+    <heroes>
+        <hero>
+            <id> 0 </id>
+            <row> 0 </row>
+            <column> 0 </column>
+            <moves> 3174 </moves>
+        </hero>
+        <hero>
+            <id> 1 </id>
+            <row> 0 </row>
+            <column> 1 </column>
+            <moves> 46 </moves>
+        </hero>
+        <hero>
+            <id> 2 </id>
+            <row> 0 </row>
+            <column> 2 </column>
+            <moves> 240 </moves>
+        </hero>
+        <hero>
+            <id> 3 </id>
+            <row> 0 </row>
+            <column> 3 </column>
+            <moves> 247 </moves>
+        </hero>
+        <hero>
+            <id> 4 </id>
+            <row> 1 </row>
+            <column> 0 </column>
+            <moves> 532 </moves>
+        </hero>
+        <hero>
+            <id> 5 </id>
+            <row> 1 </row>
+            <column> 1 </column>
+            <moves> 64 </moves>
+        </hero>
+        <hero>
+            <id> 6 </id>
+            <row> 1 </row>
+            <column> 2 </column>
+            <moves> 384 </moves>
+        </hero>
+        <hero>
+            <id> 7 </id>
+            <row> 1 </row>
+            <column> 3 </column>
+            <moves> 77 </moves>
+        </hero>
+        <hero>
+            <id> 8 </id>
+            <row> 2 </row>
+            <column> 0 </column>
+            <moves> 88 </moves>
+        </hero>
+        <hero>
+            <id> 9 </id>
+            <row> 2 </row>
+            <column> 1 </column>
+            <moves> 482 </moves>
+        </hero>
+        <hero>
+            <id> 10 </id>
+            <row> 2 </row>
+            <column> 2 </column>
+            <moves> 99 </moves>
+        </hero>
+        <hero>
+            <id> 11 </id>
+            <row> 2 </row>
+            <column> 3 </column>
+            <moves> 7 </moves>
+        </hero>
+        <hero>
+            <id> 12 </id>
+            <row> 3 </row>
+            <column> 0 </column>
+            <moves> 8 </moves>
+        </hero>
+        <hero>
+            <id> 13 </id>
+            <row> 3 </row>
+            <column> 1 </column>
+            <moves> 7 </moves>
+        </hero>
+        <hero>
+            <id> 14 </id>
+            <row> 3 </row>
+            <column> 2 </column>
+            <moves> 8 </moves>
+        </hero>
+        <hero>
+            <id> 15 </id>
+            <row> 3 </row>
+            <column> 3 </column>
+            <moves> 69 </moves>
+        </hero>
+    </heroes>
+
+    <start>
+        <row> 0 </row>
+        <column> 0 </column>
+    </start>
+
+    <destinations>
+        <destination>
+            <row> 8 </row>
+            <column> 8 </column>
+        </destination>
+        <destination>
+            <row> 8 </row>
+            <column> 9 </column>
+        </destination>
+        <destination>
+            <row> 8 </row>
+            <column> 10 </column>
+        </destination>
+        <destination>
+            <row> 8 </row>
+            <column> 11 </column>
+        </destination>
+        <destination>
+            <row> 9 </row>
+            <column> 8 </column>
+        </destination>
+        <destination>
+            <row> 9 </row>
+            <column> 9 </column>
+        </destination>
+        <destination>
+            <row> 9 </row>
+            <column> 10 </column>
+        </destination>
+        <destination>
+            <row> 9 </row>
+            <column> 11 </column>
+        </destination>
+        <destination>
+            <row> 10 </row>
+            <column> 8 </column>
+        </destination>
+        <destination>
+            <row> 10 </row>
+            <column> 9 </column>
+        </destination>
+        <destination>
+            <row> 10 </row>
+            <column> 10 </column>
+        </destination>
+        <destination>
+            <row> 10 </row>
+            <column> 11 </column>
+        </destination>
+        <destination>
+            <row> 11 </row>
+            <column> 8 </column>
+        </destination>
+        <destination>
+            <row> 11 </row>
+            <column> 9 </column>
+        </destination>
+        <destination>
+            <row> 11 </row>
+            <column> 10 </column>
+        </destination>
+        <destination>
+            <row> 11 </row>
+            <column> 11 </column>
+        </destination>
+    </destinations>
+
+    <bonuses>
+        <bonus>
+            <row> 8 </row>
+            <column> 0 </column>
+            <value> -2000 </value>
+        </bonus>
+        <bonus>
+            <row> 8 </row>
+            <column> 1 </column>
+            <value> 129 </value>
+        </bonus>
+        <bonus>
+            <row> 8 </row>
+            <column> 2 </column>
+            <value> -83 </value>
+        </bonus>
+        <bonus>
+            <row> 8 </row>
+            <column> 3 </column>
+            <value> -100 </value>
+        </bonus>
+        <bonus>
+            <row> 9 </row>
+            <column> 0 </column>
+            <value> -100 </value>
+        </bonus>
+        <bonus>
+            <row> 9 </row>
+            <column> 1 </column>
+            <value> -2000 </value>
+        </bonus>
+        <bonus>
+            <row> 9 </row>
+            <column> 2 </column>
+            <value> -2000 </value>
+        </bonus>
+        <bonus>
+            <row> 9 </row>
+            <column> 3 </column>
+            <value> -2000 </value>
+        </bonus>
+        <bonus>
+            <row> 10 </row>
+            <column> 0 </column>
+            <value> -2000 </value>
+        </bonus>
+        <bonus>
+            <row> 10 </row>
+            <column> 1 </column>
+            <value> -100 </value>
+        </bonus>
+        <bonus>
+            <row> 10 </row>
+            <column> 2 </column>
+            <value> -2000 </value>
+        </bonus>
+        <bonus>
+            <row> 10 </row>
+            <column> 3 </column>
+            <value> 280 </value>
+        </bonus>
+        <bonus>
+            <row> 11 </row>
+            <column> 0 </column>
+            <value> 2646 </value>
+        </bonus>
+        <bonus>
+            <row> 11 </row>
+            <column> 1 </column>
+            <value> -182 </value>
+        </bonus>
+        <bonus>
+            <row> 11 </row>
+            <column> 2 </column>
+            <value> -634 </value>
+        </bonus>
+        <bonus>
+            <row> 11 </row>
+            <column> 3 </column>
+            <value> 59 </value>
+        </bonus>
+    </bonuses>
+
+    <solution>
+        <score> 730 </score>
+        <moves>
+            0 3 1 4, 1 4 2 4, 1 2 0 3, 0 3 0 4, 0 4 1 5, 2 1 1 2, 1 2 0 3, 0 3 0 4, 0 4 0 5, 1 0 2 1, 2 1 1 2, 1 2 0 3, 0 3 0 4, 0 0 1 0, 1 0 2 1, 2 1 1 2, 1 2 0 3, 0 3 1 4, 1 4 2 5, 2 5 2 6, 2 6 2 7, 2 7 2 8, 2 8 3 9, 3 9 4 9, 4 9 5 9, 5 9 6 9, 6 9 7 9, 7 9 8 8, 8 8 9 7, 9 7 9 6, 9 6 9 5, 9 5 9 4, 9 4 8 3, 8 3 7 2, 7 2 8 1, 8 1 9 0, 9 0 10 1, 10 1 11 0, 11 0 10 1, 10 1 9 0, 9 0 8 1, 8 1 7 2, 7 2 8 3, 8 3 9 4, 9 4 9 5, 9 5 9 6, 9 6 9 7, 9 7 9 8, 9 8 10 8, 10 8 11 8, 11 8 11 9, 11 9 11 10, 11 10 11 11, 11 11 10 11, 10 11 9 11, 9 11 8 11, 8 11 8 10, 8 10 8 9, 8 9 9 9, 9 9 10 9, 10 9 10 10, 10 10 9 10
+        </moves>
+    </solution>
+</level>
