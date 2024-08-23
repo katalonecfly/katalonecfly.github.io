@@ -1,0 +1,115 @@
+<level>
+    <id> 88 </id>
+    <height> 5 </height>
+    <width> 5 </width>
+
+    <walls>
+        <wall>
+            <from>
+                <row> 0 </row>
+                <column> 2 </column>
+            </from>
+            <to>
+                <row> 4 </row>
+                <column> 2 </column>
+            </to>
+        </wall>
+    </walls>
+
+    <roads>
+    </roads>
+
+    <portals>
+        <portal>
+            <id> 0 </id>
+            <row> 0 </row>
+            <column> 1 </column>
+            <leads_to> 6, 7 </leads_to>
+        </portal>
+        <portal>
+            <id> 1 </id>
+            <row> 1 </row>
+            <column> 1 </column>
+            <leads_to> 5, 6 </leads_to>
+        </portal>
+        <portal>
+            <id> 2 </id>
+            <row> 2 </row>
+            <column> 1 </column>
+            <leads_to> 8 </leads_to>
+        </portal>
+        <portal>
+            <id> 3 </id>
+            <row> 3 </row>
+            <column> 1 </column>
+            <leads_to> 9 </leads_to>
+        </portal>
+        <portal>
+            <id> 4 </id>
+            <row> 4 </row>
+            <column> 1 </column>
+            <leads_to> 0 </leads_to>
+        </portal>
+        <portal>
+            <id> 5 </id>
+            <row> 0 </row>
+            <column> 3 </column>
+            <leads_to> 0, 1 </leads_to>
+        </portal>
+        <portal>
+            <id> 6 </id>
+            <row> 1 </row>
+            <column> 3 </column>
+            <leads_to> 0, 4 </leads_to>
+        </portal>
+        <portal>
+            <id> 7 </id>
+            <row> 2 </row>
+            <column> 3 </column>
+            <leads_to> 1, 4 </leads_to>
+        </portal>
+        <portal>
+            <id> 8 </id>
+            <row> 3 </row>
+            <column> 3 </column>
+            <leads_to> 3 </leads_to>
+        </portal>
+        <portal>
+            <id> 9 </id>
+            <row> 4 </row>
+            <column> 3 </column>
+            <leads_to> 0, 1, 2, 3, 4, 5, 6, 7, 8 </leads_to>
+        </portal>
+    </portals>
+
+    <heroes>
+        <hero>
+            <id> 0 </id>
+            <row> 1 </row>
+            <column> 0 </column>
+            <moves> 250 </moves>
+        </hero>
+    </heroes>
+
+    <start>
+        <row> 1 </row>
+        <column> 0 </column>
+    </start>
+
+    <destinations>
+        <destination>
+            <row> 4 </row>
+            <column> 4 </column>
+        </destination>
+    </destinations>
+
+    <bonuses>
+    </bonuses>
+
+    <solution>
+        <score> 9 </score>
+        <moves>
+            1 0 2 1, 2 1 3 3, 3 3 3 1, 3 1 4 3, 4 3 4 4
+        </moves>
+    </solution>
+</level>

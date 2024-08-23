@@ -1,0 +1,103 @@
+<level>
+    <id> 86 </id>
+    <height> 7 </height>
+    <width> 7 </width>
+
+    <walls>
+        <wall>
+            <from>
+                <row> 2 </row>
+                <column> 3 </column>
+            </from>
+            <to>
+                <row> 4 </row>
+                <column> 3 </column>
+            </to>
+        </wall>
+        <wall>
+            <from>
+                <row> 3 </row>
+                <column> 2 </column>
+            </from>
+            <to>
+                <row> 3 </row>
+                <column> 4 </column>
+            </to>
+        </wall>
+    </walls>
+
+    <roads>
+    </roads>
+
+    <portals>
+        <portal>
+            <id> 0 </id>
+            <row> 0 </row>
+            <column> 0 </column>
+            <leads_to> 1 </leads_to>
+        </portal>
+        <portal>
+            <id> 1 </id>
+            <row> 6 </row>
+            <column> 0 </column>
+            <leads_to> 2 </leads_to>
+        </portal>
+        <portal>
+            <id> 2 </id>
+            <row> 6 </row>
+            <column> 6 </column>
+            <leads_to> 0 </leads_to>
+        </portal>
+    </portals>
+
+    <heroes>
+        <hero>
+            <id> 0 </id>
+            <row> 0 </row>
+            <column> 4 </column>
+            <moves> 640 </moves>
+        </hero>
+    </heroes>
+
+    <start>
+        <row> 0 </row>
+        <column> 4 </column>
+    </start>
+
+    <destinations>
+        <destination>
+            <row> 6 </row>
+            <column> 5 </column>
+        </destination>
+    </destinations>
+
+    <bonuses>
+        <bonus>
+            <row> 2 </row>
+            <column> 2 </column>
+            <value> 7 </value>
+        </bonus>
+        <bonus>
+            <row> 2 </row>
+            <column> 4 </column>
+            <value> -6 </value>
+        </bonus>
+        <bonus>
+            <row> 4 </row>
+            <column> 2 </column>
+            <value> -5 </value>
+        </bonus>
+        <bonus>
+            <row> 4 </row>
+            <column> 4 </column>
+            <value> 82 </value>
+        </bonus>
+    </bonuses>
+
+    <solution>
+        <score> 140 </score>
+        <moves>
+            0 4 0 3, 0 3 0 2, 0 2 0 1, 0 1 0 0, 0 0 6 0, 6 0 6 6, 6 6 6 5
+        </moves>
+    </solution>
+</level>
